@@ -1,7 +1,7 @@
 
 # Contribuindo para Sistema de Gerenciamento de Livraria
 
-Obrigado por considerar contribuir com este projeto! Este guia fornecerá instruções claras para ajudar você a contribuir de maneira eficaz.
+Obrigado por considerar contribuir com este projeto! Este guia fornecerá instruções claras para ajudar você a contribuir de maneira mais eficiente.
 
 ---
 
@@ -10,7 +10,9 @@ Este projeto foi desenvolvido para gerenciar livros, usuários e empréstimos em
 
 ---
 
-## Como Baixar o Repositório
+## Como Baixar o Repositório?
+Certique-se de possuir todas ferramenteas necessarias!
+
 Siga os passos abaixo para clonar o repositório:
 
 

@@ -14,7 +14,7 @@ Este projeto foi criado para gerenciar uma livraria, oferecendo funcionalidades 
 - Validação de número máximo de empréstimos por usuário (3 ativos);
 - Listagem de livros mais emprestados.
 
-O backend foi implementado em **Node.js**, utilizando o **Sequelize** para ORM (Object-Relational Mapping) e **MySQL** como banco de dados.
+O backend foi implementado em **Node.js**, utilizando o **Sequelize** para ORM (Object-Relational Mapping) e **MySQL** como banco de dados!
 
 ---
 
